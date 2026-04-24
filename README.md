@@ -1,4 +1,4 @@
-# Pravaha FastAPI Test v1
+# Pravaha FastAPI Test v2
 
 Simple FastAPI hello world app to test the Pravaha Python deployment pipeline.
 
